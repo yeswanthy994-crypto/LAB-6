@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './LAB-6/' // Set base to current directory for correct asset paths
+  base: '/LAB-6/' // Set base to current directory for correct asset paths
 })
